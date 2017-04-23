@@ -2,6 +2,9 @@ import os
 
 #This file reads the episode list and renames the system files accordingly.
 #I am unable to find the updated version of this file, will have to work on this from scratch again.
+#It is not as simple as it looks, there are way too many discrepancies that need to be taken care of.
+
+
 #Leaving the comments for now. 
 
 
