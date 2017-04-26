@@ -24,7 +24,7 @@ t = 0
 
 while t!=n:
     ep_num = 1
-    with open('Season ' + str(t + 1) + ' Episodes.txt','w') as f:
+    with open('ep_names\\Season ' + str(t + 1) + ' Episodes.txt','w') as f:
 
         for row in table[t].findAll('tr',{'class':'vevent'}):
             
