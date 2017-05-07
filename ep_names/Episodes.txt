@@ -1,0 +1,190 @@
+S01E01 Pilot
+S01E02 The Bicycle Thief
+S01E03 Come Fly with Me
+S01E04 The Incident
+S01E05 Coal Digger
+S01E06 Run for Your Wife
+S01E07 En Garde
+S01E08 Great Expectations
+S01E09 Fizbo
+S01E10 Undeck the Halls
+S01E11 Up All Night
+S01E12 Not in My House
+S01E13 Fifteen Percent
+S01E14 Moon Landing
+S01E15 My Funky Valentine
+S01E16 Fears
+S01E17 Truth Be Told
+S01E18 Starry Night
+S01E19 Game Changer
+S01E20 Benched
+S01E21 Travels with Scout
+S01E22 Airport 2010
+S01E23 Hawaii
+S01E24 Family Portrait
+S02E01 The Old Wagon
+S02E02 The Kiss
+S02E03 Earthquake
+S02E04 Strangers on a Treadmill
+S02E05 Unplugged
+S02E06 Halloween
+S02E07 Chirp
+S02E08 Manny Get Your Gun
+S02E09 Mother Tucker
+S02E10 Dance Dance Revelation
+S02E11 Slow Down Your Neighbors
+S02E12 Our Children, Ourselves
+S02E13 Caught in the Act
+S02E14 Bixby's Back
+S02E15 Princess Party
+S02E16 Regrets Only
+S02E17 Two Monkeys and a Panda
+S02E18 Boys' Night
+S02E19 The Musical Man
+S02E20 Someone to Watch Over Lily
+S02E21 Mother's Day
+S02E22 Good Cop Bad Dog
+S02E23 See You Next Fall
+S02E24 The One That Got Away
+S03E01 Dude Ranch
+S03E02 When Good Kids Go Bad
+S03E03 Phil on Wire
+S03E04 Door to Door
+S03E05 Hit and Run
+S03E06 Go Bullfrogs
+S03E07 Treehouse
+S03E08 After the Fire
+S03E09 Punkin Chunkin
+S03E10 Express Christmas
+S03E11 Lifetime Supply
+S03E12 Egg Drop
+S03E13 Little Bo Bleep
+
+***nothing to repeat at position 0****
+S03E14 Aunt Mommy
+S03E15 Virgin Territory
+S03E16 Leap Day
+S03E17 Send Out the Clowns
+S03E18 Election Day
+S03E19 The Last Walt
+S03E20 Planes, Trains and Cars
+S03E21 Disneyland
+S03E22 Tableau Vivant
+S03E23 Baby on Board
+S04E01 Bringing Up Baby
+S04E02 Schooled
+S04E03 Snip
+S04E04 The Butler's Escape
+S04E05 Open House of Horrors
+S04E06 Yard Sale
+S04E07 Arrested
+S04E08 Mistery Date
+S04E09 When a Tree Falls
+S04E10 Diamond in the Rough
+S04E11 New Year's Eve
+S04E12 Party Crasher
+S04E13 Fulgencio
+S04E14 A Slight at the Opera
+S04E15 Heart Broken
+S04E16 Bad Hair Day
+S04E17 Best Men
+S04E18 The Wow Factor
+S04E19 The Future Dunphys
+S04E20 Flip Flop
+S04E21 Career Day
+S04E22 My Hero
+S04E23 Games People Play
+S04E24 Goodnight Gracie
+S05E01 Suddenly, Last Summer
+S05E02 First Days
+S05E03 Larry's Wife
+S05E04 Farm Strong
+S05E05 The Late Show
+S05E06 The Help
+S05E07 A Fair to Remember
+S05E08 ClosetCon '13
+S05E09 The Big Game
+S05E10 The Old Man & the Tree
+S05E11 And One to Grow On
+S05E12 Under Pressure
+S05E13 Three Dinners
+S05E14 iSpy
+S05E15 The Feud
+S05E16 Spring-a-Ding-Fling
+S05E17 Other People's Children
+S05E18 Las Vegas
+S05E19 A Hard Jay's Night
+S05E20 Australia
+S05E21 Sleeper
+S05E22 Message Received
+S05E23 The Wedding (Part 1)
+S05E24 The Wedding (Part 2)
+S06E01 The Long Honeymoon
+S06E02 Do Not Push
+S06E03 The Cold
+S06E04 Marco Polo
+S06E05 Won't You Be Our Neighbor
+S06E06 Halloween 3 - AwesomeLand
+S06E07 Queer Eyes, Full Hearts
+S06E08 Three Turkeys
+S06E09 Strangers in the Night
+S06E10 Haley's 21st Birthday
+S06E11 The Day We Almost Died
+S06E12 The Big Guns
+S06E13 Rash Decisions
+S06E14 Valentine's Day 4 - Twisted Sister
+S06E15 Fight or Flight
+S06E16 Connection Lost
+
+***nothing to repeat at position 0****
+S06E17 Spring Break
+S06E18 Grill, Interrupted
+S06E19 Knock 'Em Down
+S06E20 Integrity
+S06E21 Patriot Games
+S06E22 Crying Out Loud
+S06E23 American Skyper
+S07E01 Summer Lovin'
+S07E02 The Day Alex Left for College
+S07E03 The Closet Case
+S07E04 She Crazy
+S07E05 The Verdict
+S07E06 The More You Ignore Me
+S07E07 Phil's Sexy, Sexy House
+S07E08 Clean Out Your Junk Drawer
+S07E09 White Christmas
+S07E10 Playdates
+S07E11 Spread Your Wings
+S07E12 Clean for a Day
+S07E13 Thunk in the Trunk
+S07E14 The Storm
+S07E15 I Don't Know How She Does It
+S07E16 The Cover-Up
+S07E17 Express Yourself
+S07E18 The Party
+S07E19 Man Shouldn't Lie
+S07E20 Promposal
+S07E21 TBA
+S07E22 Double Click
+S08E01 A Tale of Three Cities
+S08E02 A Stereotypical Day
+S08E03 Blindsided
+S08E04 Weathering Heights
+S08E05 Halloween IV  - Revenge of Rod Skyhook
+S08E06 Grab It
+S08E07 Thanksgiving Jamboree
+S08E08 The Alliance
+S08E09 Snow Ball
+S08E10 Ringmaster Keifth
+S08E11 Sarge & Pea
+S08E12 Do You Believe in Magic
+S08E13 Do It Yourself
+S08E14 Heavy is the Head
+S08E15 Finding Fizbo
+S08E16 Basketball
+S08E17 Pig Moon Rising
+S08E18 Five Minutes
+S08E19 Frank's Wedding
+S08E20 All Things Being Equal
+S08E21 Alone Time[192]
+S08E22 The Graduates[193]

@@ -5,9 +5,9 @@ import os
 #It is not as simple as it looks, there are way too many discrepancies that need to be taken care of.
 
 
-path = r"C:\South2\S2"
+path = r"E:\NEW\Books\bored\shows - Copy\Modern family Season 3 Complete HDTV Bzingaz 1"
 
-f = open(r"ep_names\Season 2 Episodes.txt",'r')
+f = open(r"ep_names\Season 3 Episodes.txt",'r')
 
 extensions = ('.webm','.mkv','.flv','.vob','.ogv', 
   '.ogg','.drc','.gif','.gifv','.mng','.avi','.mov', 
